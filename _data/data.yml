@@ -1,0 +1,106 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Herlan Assis
+  tagline: Backend, Frontend and Mobile Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: herlanassis@gmail.com
+  telegram: herlanassis
+  website: #do not add http://
+  linkedin: herlanassis
+  github: herlanassis
+  twitter: "@herlanassis"
+  stack-overflow: 8220850
+  lattes: 1364066585618049
+
+  languages:
+    - idiom: Portugês
+      level: Nativo
+
+    - idiom: Inglês
+      level: Iniciante
+
+career-profile:
+  title: Analista de Sistemas
+  summary: |
+    Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo 
+    Instituto Federal do Rio Grande do Norte (IFRN) e mestrando em Ciência 
+    da Computação pelo Programa de Pós-graduação em Ciência da Computação 
+    (PPgCC) - UERN/UFERSA. Meus interesses de pesquisa estão voltados para 
+    o desenvolvimento de sistemas colaborativos, sistemas distribuídos, 
+    aplicações web, mobile e informática aplicada a saúde. Em geral, 
+    minhas maiores experiências estão concentradas na área de Sistemas da 
+    Computação, com ênfase em Ciência da Computação.
+education:
+  - degree: Mestrado em andamento em Ciência da Computação
+    university: Programa de Pós-graduação em Ciência da Computação - PPGCC (UERN/UFERSA)
+    time: 2020 - Atual
+    details:
+  - degree: Tecnólogo em Análise e Desenvolvimento de Sistemas
+    university: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, IFRN, Brasil.
+    time: 2014 - 2020
+    details: "Premiações:
+      - 2º Lugar na 5ª Exposição Científica, Tecnológica e Cultural (EXPOTEC, IFRN Campus Pau dos ferros, 2015).
+      - 3º Lugar na I Encontro de Tecnologia do Alto Oeste Potiguar (ETAL, IFRN Campus Pau dos ferros, 2015).
+      - 1º Lugar no Hackaton do I Encontro de Computação do Oeste Potiguar (UFERSA Campus Pau dos ferros, 2016)."
+experiences:
+  - role: Auxiliar de técnico em informática
+    time: 02/2014 - 11/2014
+    company: RJ Informática
+    details: |
+      Vendedor, atendente e auxiliar de técnico.
+  - role: Programador
+    time: 03/2018 - 01/2020
+    company: Evocorp
+    details: |
+      Desenvolvedor de serviços Backend, aplicações Web e Mobile para serviços de rastreamento veícular.
+projects:
+  title: Projetos
+  intro: >
+    Alguns do projetos que fiz e estou fazendo:
+  assignments:
+    - title: Me Lembre
+      link: "https://play.google.com/store/apps/details?id=br.edu.ifrn.melembre&hl=pt_BR"
+      tagline: "Aplicativo mobile desenvolvido para emitir notificações sobre o horário de solicitação de refeições dos alunos do IFRN do campus Pau dos Ferros/RN"
+
+    - title: "Simple Project Manager: SPM"
+      link: "https://github.com/HerlanAssis/simple-project-manager"
+      tagline: "Uma Ferramenta para Gerenciamento de Projetos do Github Baseada em Técnicas de Mineração de Repositório de Software"
+
+    - title: Django Clean Architecture Helper
+      link: "https://github.com/HerlanAssis/django-clean-architecture-helper"
+      tagline: "Aplicativo reutilizável para ajudar a implementar uma arquitetura limpa em Django"
+
+    - title: Web Comics
+      link: "https://github.com/HerlanAssis/web-comics"
+      tagline: "Leitor massivo de tirinhas"
+
+skills:
+  title: Habilidades &amp; Competências
+
+  toolset:
+    - name: ReactJS
+      level: 90%
+
+    - name: React Native
+      level: 80%
+
+    - name: Python & Django
+      level: 60%
+
+    - name: Ionic
+      level: 10%
+
+    - name: VueJS
+      level: 30%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
